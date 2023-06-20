@@ -1,11 +1,11 @@
-About r-tableone
-================
+About r-tableone-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tableone-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/kaz-yos/tableone
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tableone-feedstock/blob/main/LICENSE.txt)
 
 Summary: Creates 'Table 1', i.e., description of baseline patient characteristics, which is essential in every medical research. Supports both continuous and categorical variables, as well as p-values and standardized mean differences. Weighted data are supported via the 'survey' package.
 
